@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Traian</h1>
 <h3 align="center">A passionate Full Stack capable but mostly backend (Python) Engineer from Ireland</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=svintit" alt="svintit" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=svintit" alt="svintit" /> </p>
 
 **Majority of my work is currently done on [Gitlab](https://gitlab.com/svintit).**
 
