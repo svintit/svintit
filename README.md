@@ -19,9 +19,10 @@
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=svintit&show_icons=true" alt="svintit" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svintit&layout=compact&hide=html" alt="svintit" />
-
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=svintit&show_icons=true" alt="svintit" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svintit&layout=compact&hide=html" alt="svintit" />
+</p>
 ---
 
 <p align="center">
