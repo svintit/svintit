@@ -5,8 +5,6 @@
 
 **Majority of my work is currently done on [Gitlab](https://gitlab.com/svintit).**
 
-<br />
-
 - 🔭 I’m currently working at **Calypso AI**
 
 - 🌱 I’m currently learning **everything and anything I can!**
@@ -21,6 +19,9 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=svintit&show_icons=true" alt="svintit" />
+</p>
+
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svintit&layout=compact&hide=html" alt="svintit" />
 </p>
 
