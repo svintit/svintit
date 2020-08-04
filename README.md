@@ -17,10 +17,19 @@
 
 - 📫 Reach me at **traian.svinti@gmail.com**
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=svintit&show_icons=true" alt="svintit" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svintit&layout=compact&hide=html" alt="svintit" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=svintit&show_icons=true" alt="svintit" />
+
 
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 ---
 
