@@ -34,10 +34,10 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/></p> &nbsp;&nbsp;&nbsp;
-/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/> &nbsp;&nbsp;&nbsp;
+</p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svintit&layout=compact&hide=html" alt="svintit" 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svintit&layout=compact&hide=html" alt="svintit" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=svintit&show_icons=true" alt="svintit" />
 
 
