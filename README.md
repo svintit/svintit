@@ -17,8 +17,11 @@
 
 - 📫 Reach me at **traian.svinti@gmail.com**
 
-<br />
-<br />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svintit&layout=compact&hide=html" alt="svintit" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=svintit&show_icons=true" alt="svintit" />
+
+---
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> &nbsp;&nbsp;&nbsp;
@@ -36,10 +39,6 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/> &nbsp;&nbsp;&nbsp;
 </p>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svintit&layout=compact&hide=html" alt="svintit" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=svintit&show_icons=true" alt="svintit" />
-
 
 <p align="center">
 <a href="https://dev.to/svintit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="svintit" height="20" width="20" /></a>
