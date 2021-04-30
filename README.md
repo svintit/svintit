@@ -29,19 +29,18 @@
 
 <p align="center">
   <img src="https://unpkg.com/simple-icons@v4/icons/vue-dot-js.svg" alt="bootstrap" width="20" height="20"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/simple-icons@v4/icons/bootstrap.svg" alt="bootstrap" width="20" height="20">  &nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/simple-icons@v4/icons/css3.svg" alt="css3" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/simple-icons@v4/icons/django.svg" alt="django" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/simple-icons@v4/icons/docker.svg" alt="docker" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/simple-icons@v4/icons/html5.svg" alt="html5" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/simple-icons@v4/icons/javascript.svg" alt="javascript" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/simple-icons@v4/icons/typescript.svg" alt="typescript" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/simple-icons@v4/icons/mysql.svg" alt="mysql" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/simple-icons@v4/icons/postgresql.svg" alt="postgresql" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/simple-icons@v4/icons/redhat.svg" alt="redhat" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/simple-icons@v4/icons/python.svg" alt="python" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/simple-icons@v4/icons/nginx.svg" alt="nginx" width="20" height="20"/> &nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
