@@ -27,8 +27,10 @@
 
 ---
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+
 <p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> &nbsp;&nbsp;&nbsp;
+  <i class="devicon-vuejs-plain"></i> &nbsp;&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
