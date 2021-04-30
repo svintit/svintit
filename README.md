@@ -28,7 +28,7 @@
 ---
 
 <p align="center">
-  <img src="https://unpkg.com/simple-icons@v4/icons/vue-dot-js.svg" alt="bootstrap" width="20" height="20"><path style="fill: green" d="M150 0 L75 200 L225 200 Z" /></svg> &nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/simple-icons@v4/icons/vue-dot-js.svg" alt="bootstrap" width="20" height="20"> <path style="fill: green"/> </svg> &nbsp;&nbsp;&nbsp;
   <img src="https://unpkg.com/simple-icons@v4/icons/bootstrap.svg" alt="bootstrap" width="20" height="20">  &nbsp;&nbsp;&nbsp;
   <img src="https://unpkg.com/simple-icons@v4/icons/css3.svg" alt="css3" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
   <img src="https://unpkg.com/simple-icons@v4/icons/django.svg" alt="django" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
