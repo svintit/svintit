@@ -28,8 +28,8 @@
 ---
 
 <p align="center">
-  <img src="https://unpkg.com/simple-icons@v4/icons/vue-dot-js.svg" alt="bootstrap" width="20" height="20" style="fill: green"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://unpkg.com/simple-icons@v4/icons/bootstrap.svg" alt="bootstrap" width="20" height="20">  &nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/simple-icons@v4/icons/vue-dot-js.svg" alt="bootstrap" width="20" height="20"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/simple-icons@v4/icons/bootstrap.svg" alt="bootstrap" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
   <img src="https://unpkg.com/simple-icons@v4/icons/css3.svg" alt="css3" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
   <img src="https://unpkg.com/simple-icons@v4/icons/django.svg" alt="django" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
   <img src="https://unpkg.com/simple-icons@v4/icons/docker.svg" alt="docker" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
