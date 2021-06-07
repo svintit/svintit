@@ -5,7 +5,7 @@
 
 **Majority of my work is currently done on [Gitlab](https://gitlab.com/svintit).**
 
-- 🔭 I’m currently working at **Calypso AI**
+- 🔭 I’m currently working at **Vectra AI**
 
 - 🌱 I’m currently learning **everything and anything I can!**
 
