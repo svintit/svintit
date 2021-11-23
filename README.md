@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=svintit" alt="svintit" /> </p>
 
-**Majority of my work is currently done on [Gitlab](https://gitlab.com/svintit).**
+**Majority of my work has previously been done on [Gitlab](https://gitlab.com/svintit), now on a private bitbucket server.**
 
 - 🔭 I’m currently working at **Vectra AI**
 
