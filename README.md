@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Traian</h1>
-<h3 align="center">A passionate, Full Stack capable but mostly Senior Backend (Python) Engineer from Ireland</h3>
+<h3 align="center">A passionate, Full Stack capable but mostly Senior Backend (Python + Ruby) Engineer from Ireland</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=svintit" alt="svintit" /> </p>
 
 **Majority of my work has previously been done on [Gitlab](https://gitlab.com/svintit), now on a private bitbucket server.**
 
-- 🔭 I’m currently working at **Vectra AI**
+- 🔭 I’m currently working at **Shopify**
 
 - 🌱 I’m currently learning **everything and anything I can!**
 
 - 👯 I’m looking to collaborate on **anything of interest!**
 
-- 💬 Ask me about **Python, Kubernetes, DB's, Flask, Django, Keycloak, Docker**
+- 💬 Ask me about **Python, Ruby, Rails, Kubernetes, DB's, Flask, Django, Keycloak, Docker**
 
 - 📫 Reach me at **traian.svinti@gmail.com**
 
@@ -40,6 +40,7 @@
   <img src="https://unpkg.com/simple-icons@v4/icons/postgresql.svg" alt="postgresql" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
   <img src="https://unpkg.com/simple-icons@v4/icons/redhat.svg" alt="redhat" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
   <img src="https://unpkg.com/simple-icons@v4/icons/python.svg" alt="python" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/simple-icons@v4/icons/ruby.svg" alt="ruby" width="20" height="20"/>  &nbsp;&nbsp;&nbsp;
   <img src="https://unpkg.com/simple-icons@v4/icons/nginx.svg" alt="nginx" width="20" height="20"/> &nbsp;&nbsp;&nbsp;
 </p>
 
