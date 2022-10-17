@@ -18,11 +18,11 @@
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=svintit&show_icons=true&count_private=true&theme=tokyonight" alt="svintit" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=svintit&show_icons=true&count_private=true&include_all_commits=true" alt="svintit" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svintit&layout=compact&hide=html&count_private=true&theme=tokyonight" alt="svintit" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svintit&layout=compact&hide=[html,css]&&count_private=true&include_all_commits=true" alt="svintit" />
 </p>
 
 ---
