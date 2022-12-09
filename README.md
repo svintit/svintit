@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Traian</h1>
-<h3 align="center">A passionate, Full Stack Senior Software Engineer (Python/Ruby/Typescript/Javascript) Engineer from Ireland</h3>
+<h3 align="center">A passionate, Full Stack Senior Software Engineer (Python/Ruby/Typescript/Javascript) from Ireland</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=svintit" alt="svintit" /> </p>
 
