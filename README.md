@@ -25,6 +25,14 @@ Senior software engineer passionate about building scalable systems and solving 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -53,6 +61,14 @@ Senior software engineer passionate about building scalable systems and solving 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 📊 Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,ruby,rails,graphql,nodejs,mysql,redis,docker,git,aws&perline=6" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -65,6 +81,16 @@ Senior software engineer passionate about building scalable systems and solving 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=svintit&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌟 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/svintit/svintit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=svintit&repo=svintit&theme=radical&hide_border=true" alt="GitHub Profile README" />
+  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
