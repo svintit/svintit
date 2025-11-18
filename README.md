@@ -44,10 +44,6 @@ Senior software engineer passionate about building scalable systems and solving 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svintit&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=svintit&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
