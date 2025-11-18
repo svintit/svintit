@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=svintit&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/svintit?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=svintit&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
