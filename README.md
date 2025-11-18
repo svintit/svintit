@@ -49,14 +49,6 @@ Senior software engineer passionate about building scalable systems and solving 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=svintit&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svintit/svintit/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/svintit/svintit/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/svintit/svintit/output/github-contribution-grid-snake.svg">
-</picture>
-
 ## 🤝 Connect with Me
 
 <p align="center">
