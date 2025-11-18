@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=svintit&icon=5&color=6" alt="Visit Counter" />
+  <img src="https://komarev.com/ghpvc/?username=svintit&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
