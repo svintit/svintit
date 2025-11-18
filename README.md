@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Traian 👋</h1>
+<h1 align="center">Hey, I'm Traian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/svintit">
@@ -20,6 +20,8 @@ Senior software engineer passionate about building scalable systems and solving 
 - 🔧 Interested in modern web technologies, APIs, and distributed systems
 - 🤝 Active code reviewer and mentor
 - 📚 First Class Honours in Computer Science from Dublin City University
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 🛠️ Tech Stack
 
@@ -48,6 +50,14 @@ Senior software engineer passionate about building scalable systems and solving 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=svintit&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svintit/svintit/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/svintit/svintit/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/svintit/svintit/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🤝 Connect with Me
 
