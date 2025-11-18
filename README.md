@@ -45,7 +45,7 @@ Senior software engineer passionate about building scalable systems and solving 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=svintit&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=svintit&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 🏆 GitHub Trophies
