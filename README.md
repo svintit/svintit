@@ -37,13 +37,6 @@ Senior software engineer passionate about building scalable systems and solving 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=svintit&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svintit&layout=compact&theme=radical&hide_border=true&hide=css" alt="Top Languages" height="170" />
-</p>
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
