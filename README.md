@@ -35,9 +35,6 @@ Senior software engineer passionate about building scalable systems and solving 
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/ruby-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/rails-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/redis-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
 </p>
@@ -55,14 +52,6 @@ Senior software engineer passionate about building scalable systems and solving 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,ruby,rails,graphql,nodejs,mysql,redis,docker,git,aws&perline=6" />
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
