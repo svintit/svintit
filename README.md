@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/svintit">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=6E40C9&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Senior+Software+Engineer;Frontend-Focused+Full+Stack+Developer;Code+Reviewer+%26+Mentor;Building+Reliable+Products+at+Scale" alt="Senior software engineer, frontend-focused full stack developer, code reviewer, and mentor">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=6E40C9&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Senior+Software+Engineer;Frontend-Focused+Full+Stack+Developer;Code+Reviewer+%26+Mentor;Building+Reliable+Products+at+Scale" alt="Senior software engineer, frontend-focused full stack developer, code reviewer, and mentor">
   </a>
 </p>
 <p align="center">
