@@ -6,7 +6,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="./assets/coding.svg" width="820" alt="Animated code editor showing Traian's engineering focus">
+  <img src="./assets/coding.svg" width="820" alt="Animated terminal cycling through Traian's work, principles, and interests">
 </p>
 
 
