@@ -1,81 +1,53 @@
-<h1 align="center">Hey, I'm Traian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hey, I'm Traian 👋</h1>
 
 <p align="center">
   <a href="https://github.com/svintit">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer;Frontend+Focused;Full+Stack+Developer;Problem+Solver;Code+Reviewer+%26+Mentor;Building+at+Scale" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=6E40C9&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Senior+Software+Engineer;Frontend-Focused+Full+Stack+Developer;Code+Reviewer+%26+Mentor;Building+Reliable+Products+at+Scale" alt="Senior software engineer, frontend-focused full stack developer, code reviewer, and mentor">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=svintit&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
+  <a href="https://github.com/svintit"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile"></a>
+  <a href="https://www.linkedin.com/in/svintit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
+  <img src="https://komarev.com/ghpvc/?username=svintit&label=Profile%20views&color=6E40C9&style=flat-square" alt="Profile views">
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🚀 About me
 
-## 🚀 About Me
+I turn complex product and platform problems into clear, dependable experiences. I work across the stack, with a focus on frontend architecture and user experience.
 
-Senior software engineer passionate about building scalable systems and solving complex problems. I work across the full stack with a focus on frontend development, creating great user experiences while maintaining solid backend foundations.
+- I build web systems for global scale.
+- I work with modern frontend platforms, APIs, and distributed systems.
+- I review code and help engineers grow.
+- I hold First Class Honours in Computer Science from Dublin City University.
 
-- 💻 Frontend-focused full stack engineer
-- 🌍 Working on systems that operate at global scale
-- 🔧 Interested in modern web technologies, APIs, and distributed systems
-- 🤝 Active code reviewer and mentor
-- 📚 First Class Honours in Computer Science from Dublin City University
+## 🛠️ Toolbox
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="38" height="38" alt="React" title="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" title="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" title="TypeScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="38" height="38" alt="Ruby" title="Ruby">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" width="38" height="38" alt="Ruby on Rails" title="Ruby on Rails">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="38" height="38" alt="GraphQL" title="GraphQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="38" height="38" alt="MySQL" title="MySQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="38" height="38" alt="Redis" title="Redis">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="38" height="38" alt="Docker" title="Docker">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="38" height="38" alt="Amazon Web Services" title="Amazon Web Services">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38" height="38" alt="Git" title="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="38" height="38" alt="NGINX" title="NGINX">
+</p>
 
-## 🛠️ Tech Stack
+## 📊 GitHub stats
 
 <p align="center">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="icon" width="65" height="65" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://streak-stats.demolab.com?user=svintit&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=10" alt="Traian's GitHub contribution streak">
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🎯 Current focus
 
-## 🏆 GitHub Trophies
+- Product engineering where frontend quality meets reliable backend systems.
+- Clear architecture that helps teams move quickly and safely.
+- Thoughtful reviews, practical mentoring, and maintainable code.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=svintit&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=svintit&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/svintit">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/svintit">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
-</p>
-
-<p align="center">
-  <i>Building great experiences, one commit at a time</i> 💻
-</p>
+<p align="center"><sub>Build useful things. Make the complex feel simple.</sub></p>
