@@ -5,6 +5,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=6E40C9&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Senior+Software+Engineer;Frontend-Focused+Full+Stack+Developer;Code+Reviewer+%26+Mentor;Building+Reliable+Products+at+Scale" alt="Senior software engineer, frontend-focused full stack developer, code reviewer, and mentor">
   </a>
 </p>
+<p align="center">
+  <img src="./assets/coding.svg" width="820" alt="Animated code editor showing Traian's engineering focus">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving hand">
+</p>
 
 <p align="center">
   <a href="https://github.com/svintit"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile"></a>
@@ -38,10 +45,12 @@ I turn complex product and platform problems into clear, dependable experiences.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="38" height="38" alt="NGINX" title="NGINX">
 </p>
 
-## 📊 GitHub stats
+## ✨ How I work
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=svintit&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=10" alt="Traian's GitHub contribution streak">
+  <img src="https://img.shields.io/badge/BUILD-Useful%20products-6E40C9?style=for-the-badge" alt="Build useful products">
+  <img src="https://img.shields.io/badge/SIMPLIFY-Complex%20systems-2F81F7?style=for-the-badge" alt="Simplify complex systems">
+  <img src="https://img.shields.io/badge/SHARE-Clear%20feedback-238636?style=for-the-badge" alt="Share clear feedback">
 </p>
 
 ## 🎯 Current focus

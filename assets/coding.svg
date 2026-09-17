@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="220" viewBox="0 0 820 220" role="img" aria-labelledby="title description">
+  <title id="title">Animated code editor</title>
+  <desc id="description">A dark code editor with animated code lines and a moving cursor.</desc>
+  <style>
+    .line { animation: reveal 4.8s ease-in-out infinite; transform-origin: left; }
+    .line:nth-of-type(2) { animation-delay: .35s; }
+    .line:nth-of-type(3) { animation-delay: .7s; }
+    .line:nth-of-type(4) { animation-delay: 1.05s; }
+    .cursor { animation: blink 1s steps(2, jump-none) infinite; }
+    .dot { animation: pulse 2.4s ease-in-out infinite; }
+    .dot:nth-of-type(2) { animation-delay: .25s; }
+    .dot:nth-of-type(3) { animation-delay: .5s; }
+    @keyframes reveal { 0%, 12% { transform: scaleX(0); opacity: .25; } 35%, 82% { transform: scaleX(1); opacity: 1; } 100% { transform: scaleX(0); opacity: .25; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes pulse { 50% { opacity: .45; } }
+  </style>
+  <rect width="820" height="220" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="818" height="218" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
+  <rect width="820" height="46" rx="18" fill="#161b22"/>
+  <rect y="28" width="820" height="18" fill="#161b22"/>
+  <circle class="dot" cx="26" cy="23" r="6" fill="#ff7b72"/>
+  <circle class="dot" cx="48" cy="23" r="6" fill="#d29922"/>
+  <circle class="dot" cx="70" cy="23" r="6" fill="#3fb950"/>
+  <text x="410" y="29" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" text-anchor="middle">traian.ts</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">
+    <text x="30" y="82" fill="#484f58">1</text>
+    <text x="30" y="116" fill="#484f58">2</text>
+    <text x="30" y="150" fill="#484f58">3</text>
+    <text x="30" y="184" fill="#484f58">4</text>
+    <g class="line"><text x="64" y="82" fill="#ff7b72">const</text><text x="120" y="82" fill="#79c0ff"> engineer</text><text x="210" y="82" fill="#c9d1d9"> = {</text></g>
+    <g class="line"><text x="88" y="116" fill="#7ee787">focus:</text><text x="156" y="116" fill="#a5d6ff"> 'frontend + systems'</text><text x="388" y="116" fill="#c9d1d9">,</text></g>
+    <g class="line"><text x="88" y="150" fill="#7ee787">values:</text><text x="166" y="150" fill="#a5d6ff"> ['quality', 'clarity', 'scale']</text></g>
+    <g class="line"><text x="64" y="184" fill="#c9d1d9">};</text></g>
+    <rect class="cursor" x="94" y="166" width="9" height="22" rx="1" fill="#58a6ff"/>
+  </g>
+</svg>
