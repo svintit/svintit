@@ -1,23 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="260" viewBox="0 0 820 260" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="280" viewBox="0 0 820 280" role="img" aria-labelledby="title description">
   <title id="title">Traian's animated terminal</title>
-  <desc id="description">A terminal cycles through Traian's engineering work, principles, and interests.</desc>
+  <desc id="description">A terminal cycles through Traian's tools, current learning, keyboard setup, and working style.</desc>
   <style>
     .scene { opacity: 0; }
-    .scene-one { animation: sceneOne 15s infinite; }
-    .scene-two { animation: sceneTwo 15s infinite; }
-    .scene-three { animation: sceneThree 15s infinite; }
+    .scene-one { animation: sceneOne 20s infinite; }
+    .scene-two { animation: sceneTwo 20s infinite; }
+    .scene-three { animation: sceneThree 20s infinite; }
+    .scene-four { animation: sceneFour 20s infinite; }
     .cursor { animation: blink 1s steps(2, jump-none) infinite; }
     .dot { animation: pulse 2.4s ease-in-out infinite; }
     .dot:nth-of-type(2) { animation-delay: .25s; }
     .dot:nth-of-type(3) { animation-delay: .5s; }
-    @keyframes sceneOne { 0%, 29% { opacity: 1; } 33%, 96% { opacity: 0; } 100% { opacity: 1; } }
-    @keyframes sceneTwo { 0%, 31% { opacity: 0; } 35%, 62% { opacity: 1; } 66%, 100% { opacity: 0; } }
-    @keyframes sceneThree { 0%, 64% { opacity: 0; } 68%, 95% { opacity: 1; } 99%, 100% { opacity: 0; } }
+    @keyframes sceneOne { 0%, 22% { opacity: 1; } 25%, 97% { opacity: 0; } 100% { opacity: 1; } }
+    @keyframes sceneTwo { 0%, 23% { opacity: 0; } 26%, 47% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    @keyframes sceneThree { 0%, 48% { opacity: 0; } 51%, 72% { opacity: 1; } 75%, 100% { opacity: 0; } }
+    @keyframes sceneFour { 0%, 73% { opacity: 0; } 76%, 97% { opacity: 1; } 100% { opacity: 0; } }
     @keyframes blink { 50% { opacity: 0; } }
     @keyframes pulse { 50% { opacity: .45; } }
   </style>
-  <rect width="820" height="260" rx="18" fill="#0d1117"/>
-  <rect x="1" y="1" width="818" height="258" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
+  <rect width="820" height="280" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="818" height="278" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
   <rect width="820" height="46" rx="18" fill="#161b22"/>
   <rect y="28" width="820" height="18" fill="#161b22"/>
   <circle class="dot" cx="26" cy="23" r="6" fill="#ff7b72"/>
@@ -26,25 +28,32 @@
   <text x="410" y="29" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" text-anchor="middle">traian@github ~ %</text>
   <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">
     <g class="scene scene-one">
-      <text x="30" y="82" fill="#7ee787">$</text><text x="52" y="82" fill="#c9d1d9"> whoami --verbose</text>
-      <text x="52" y="116" fill="#79c0ff">role</text><text x="180" y="116" fill="#8b949e">Senior software engineer</text>
-      <text x="52" y="148" fill="#79c0ff">craft</text><text x="180" y="148" fill="#8b949e">Product engineering at global scale</text>
-      <text x="52" y="180" fill="#79c0ff">superpower</text><text x="180" y="180" fill="#8b949e">Making complex systems feel simple</text>
-      <text x="30" y="222" fill="#7ee787">$</text><rect class="cursor" x="52" y="205" width="9" height="21" rx="1" fill="#58a6ff"/>
+      <text x="30" y="82" fill="#7ee787">$</text><text x="52" y="82" fill="#c9d1d9"> ./currently-building</text>
+      <text x="52" y="118" fill="#79c0ff">→</text><text x="82" y="118" fill="#8b949e">Tools that remove friction from daily work</text>
+      <text x="52" y="152" fill="#79c0ff">→</text><text x="82" y="152" fill="#8b949e">Interfaces that make hard decisions clear</text>
+      <text x="52" y="186" fill="#79c0ff">→</text><text x="82" y="186" fill="#8b949e">Automation for everything I do twice</text>
+      <text x="30" y="238" fill="#7ee787">$</text><rect class="cursor" x="52" y="220" width="9" height="22" rx="1" fill="#58a6ff"/>
     </g>
     <g class="scene scene-two">
-      <text x="30" y="82" fill="#7ee787">$</text><text x="52" y="82" fill="#c9d1d9"> cat engineering-principles.yml</text>
-      <text x="52" y="116" fill="#d2a8ff">build:</text><text x="180" y="116" fill="#a5d6ff"> useful products</text>
-      <text x="52" y="148" fill="#d2a8ff">prefer:</text><text x="180" y="148" fill="#a5d6ff"> clarity over cleverness</text>
-      <text x="52" y="180" fill="#d2a8ff">optimize:</text><text x="180" y="180" fill="#a5d6ff"> teams, systems, and users</text>
-      <text x="30" y="222" fill="#7ee787">$</text><rect class="cursor" x="52" y="205" width="9" height="21" rx="1" fill="#58a6ff"/>
+      <text x="30" y="82" fill="#7ee787">$</text><text x="52" y="82" fill="#c9d1d9"> cat ~/.config/developer.json</text>
+      <text x="52" y="118" fill="#d2a8ff">"editor"</text><text x="164" y="118" fill="#8b949e">: "terminal-first",</text>
+      <text x="52" y="152" fill="#d2a8ff">"keyboard"</text><text x="164" y="152" fill="#8b949e">: "split + Colemak-DH",</text>
+      <text x="52" y="186" fill="#d2a8ff">"workflow"</text><text x="164" y="186" fill="#8b949e">: "automate → refine → repeat"</text>
+      <text x="30" y="238" fill="#7ee787">$</text><rect class="cursor" x="52" y="220" width="9" height="22" rx="1" fill="#58a6ff"/>
     </g>
     <g class="scene scene-three">
-      <text x="30" y="82" fill="#7ee787">$</text><text x="52" y="82" fill="#c9d1d9"> git log --today --oneline</text>
-      <text x="52" y="116" fill="#d29922">a11ce01</text><text x="140" y="116" fill="#8b949e">Turn ambiguity into a clear plan</text>
-      <text x="52" y="148" fill="#d29922">c0de123</text><text x="140" y="148" fill="#8b949e">Ship dependable user experiences</text>
-      <text x="52" y="180" fill="#d29922">f33dbac</text><text x="140" y="180" fill="#8b949e">Help another engineer grow</text>
-      <text x="30" y="222" fill="#7ee787">$</text><rect class="cursor" x="52" y="205" width="9" height="21" rx="1" fill="#58a6ff"/>
+      <text x="30" y="82" fill="#7ee787">$</text><text x="52" y="82" fill="#c9d1d9"> brew list --interests</text>
+      <text x="52" y="118" fill="#ffa657">systems-design</text><text x="230" y="118" fill="#8b949e">Understanding the whole machine</text>
+      <text x="52" y="152" fill="#ffa657">developer-tools</text><text x="230" y="152" fill="#8b949e">Making the fast path effortless</text>
+      <text x="52" y="186" fill="#ffa657">keyboards</text><text x="230" y="186" fill="#8b949e">Because defaults are only a starting point</text>
+      <text x="30" y="238" fill="#7ee787">$</text><rect class="cursor" x="52" y="220" width="9" height="22" rx="1" fill="#58a6ff"/>
+    </g>
+    <g class="scene scene-four">
+      <text x="30" y="82" fill="#7ee787">$</text><text x="52" y="82" fill="#c9d1d9"> ./debugging.sh --honest</text>
+      <text x="52" y="118" fill="#f85149">FAIL</text><text x="118" y="118" fill="#8b949e">Assume the obvious answer is correct</text>
+      <text x="52" y="152" fill="#d29922">RETRY</text><text x="118" y="152" fill="#8b949e">Measure, isolate, and test the theory</text>
+      <text x="52" y="186" fill="#3fb950">PASS</text><text x="118" y="186" fill="#8b949e">Fix the cause and leave the system clearer</text>
+      <text x="30" y="238" fill="#7ee787">$</text><rect class="cursor" x="52" y="220" width="9" height="22" rx="1" fill="#58a6ff"/>
     </g>
   </g>
 </svg>
