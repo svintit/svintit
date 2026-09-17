@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Traian 👋</h1>
+<h1 align="center">Hey, I'm Traian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand"></h1>
 
 <p align="center">
   <a href="https://github.com/svintit">
@@ -9,9 +9,6 @@
   <img src="./assets/coding.svg" width="820" alt="Animated code editor showing Traian's engineering focus">
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving hand">
-</p>
 
 <p align="center">
   <a href="https://github.com/svintit"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile"></a>
