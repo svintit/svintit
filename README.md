@@ -30,19 +30,19 @@ I turn complex product and platform problems into clear, dependable experiences.
 
 ## 🛠️ Toolbox
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="38" height="38" alt="React" title="React">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" title="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" title="TypeScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="38" height="38" alt="Ruby" title="Ruby">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" width="38" height="38" alt="Ruby on Rails" title="Ruby on Rails">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="38" height="38" alt="GraphQL" title="GraphQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="38" height="38" alt="MySQL" title="MySQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="38" height="38" alt="Redis" title="Redis">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="38" height="38" alt="Docker" title="Docker">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="38" height="38" alt="Amazon Web Services" title="Amazon Web Services">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38" height="38" alt="Git" title="Git">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="38" height="38" alt="NGINX" title="NGINX">
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="58" height="58" alt="React" title="React">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="58" height="58" alt="JavaScript" title="JavaScript">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="58" height="58" alt="TypeScript" title="TypeScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="58" height="58" alt="Ruby" title="Ruby">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" width="58" height="58" alt="Ruby on Rails" title="Ruby on Rails">
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="58" height="58" alt="GraphQL" title="GraphQL">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="58" height="58" alt="MySQL" title="MySQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="58" height="58" alt="Redis" title="Redis">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="58" height="58" alt="Docker" title="Docker">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="58" height="58" alt="Amazon Web Services" title="Amazon Web Services">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="58" height="58" alt="Git" title="Git">
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="58" height="58" alt="NGINX" title="NGINX">
 </p>
 
 ## ✨ How I work
